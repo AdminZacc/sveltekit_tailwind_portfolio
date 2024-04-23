@@ -14,9 +14,15 @@ h1,h2,h3, .poppins {
     font-family: 'Poppins', sans-serif;
 
 }
-.shadow-lg:hover {
-     --tw-shadow: 0 0 10px rgba(8, 230, 238, 0.75), 0 0 20px rgba(8, 230, 238, 0.75), 0 0 30px rgba(8, 230, 238, 0.75), 0 0 40px rgba(8, 230, 238, 0.75), 0 0 50px rgba(8, 230, 238, 0.75), 0 0 60px rgba(8, 230, 238, 0.75), 0 0 70px rgba(8, 230, 238, 0.75);
+.shadow-lg:hover, .shadow-md:hover, .shadow-sm:hover {
+   
+     --tw-shadow: 0 0 10px rgba(167, 139, 250, 0.75), 0 0 20px rgba(167, 139, 250, 0.75), 
+     0 0 30px rgba(167, 139, 250, 0.75), 0 0 40px rgba(167, 139, 250, 0.75), 
+     0 0 50px rgba(167, 139, 250, 0.75), 0 0 60px rgba(167, 139, 250, 0.75), 0 0 70px 
+     rgba(167, 139, 250, 0.75);
+
 }
+
 .focus\:outline-none:focus {
     outline: 2px solid transparent;
     outline-offset: 2px;
