@@ -3,19 +3,19 @@
 
     let steps = [
         {
-            name: "Space Invaders Clone",
-            icon: "fa-solid fa-alien",
+            name: "www.Zealworthy.com",
+            icon: "fa-solid fa-palette",
             description:
-                "Smoljames Store is a a merchanising store created with Next.js, Commerce.js & Stripe! Commerce.js is a CMS for managing project and Stripe is used for all transaction handling.",
+                "My Word-press portfolio site for my art work",
         },
         {
-            name: "Utlimate Todos",
+            name: "Project 2",
             icon: "fa-solid fa-list-check",
             description:
                 "Test for model robustness with customized test profiles and receive exhaustive reporting on the performance and potential vulnerabilities of your model.",
         },
         {
-            name: "Pokédex",
+            name: "Project 3",
             icon: "fa-solid fa-diagram-project",
             description:
                 "Augment your datasets with our filters and dataset manipulations to ensure your models are trained on the highest quality datasets (coming soon).",
@@ -31,15 +31,15 @@
         },
         {       
             
-            name: "a product design & UX fanatic",
+            name: "Art and design enthusiast",
             description:
-                "Carefully crafting and designing amazing user experiences allows me to express and experiment with every morsel of creativity I have. I love the challenge of learning new design concepts and enabling users with amazing online experiences.",
+                "Engineering fun and innovative products, well-designed with security , performance and user experience top of mind. I have a keen eye for design and strive to craft intuitive yet striking digital experiences. I'm passionate about blending art, technology and communication to create impactful work.",
         },
         {       
            
-            name: "an excellent communicator",
+            name: "Effective communicator and collaborator",
             description:
-                "Communication is key and it's a paramount value of mine. I believe in transparency and constructive communication above all else. This helps me develop deep relationships and ensures my effectiveness and productivity in any work space with any team.",
+                "Communication is key to any successful product. I love collaborating with others, sharing ideas, gathering feedback and bringing projects to life through meaningful discussions and teamwork. My goal is to always understand the needs of others and craft the best possible solution.",
         },
     ];
 </script>
@@ -54,8 +54,7 @@
         >
             <h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
                 Hi! I'm <span class="poppins text-violet-400">Zacchaeus</span> Elliott
-                <br />Full Stack
-                <span class="poppins text-violet-400">Developer</span>
+                <br />Full Stack <span class="poppins text-violet-400">Developer</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
                 My <span class="text-violet-400"> favorite web tech</span> includes JavaScript
@@ -68,7 +67,7 @@
                 <div
                     class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
                 />
-                <h4 class="relative z-9">Get in touch &rarr;</h4>
+                <h4 class="relative z-9">Hit me up! &rarr;</h4>
             </button>
         </div>
         <div class="relative shadow-2xl grid place-items-center">
@@ -109,7 +108,7 @@
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <Step step={steps[0]}>
                 <p>
-                    Spaced Invaders is a clone created in Visual Studio Code using<strong
+                    Zealworthy.com is a viewing gallery for my art work. I have am also a self-taught artist ans have been creating since I was a very young. <strong
                         class="text-violet-400"
                         >Node.js</strong> 
                 </p>
@@ -177,7 +176,7 @@
             {/each}
         </div>
         <h5 class={" text-2xl sm:text-3xl font-semibold text-center poppins "}>
-            The <span class="text-violet-400">Complete</span> Package
+            Business <span class="text-violet-400">value</span> realized....
         </h5>
         <div
             class="flex flex-col overflow-x-scroll gap-10 max-w-[800px] mx-auto w-full"
