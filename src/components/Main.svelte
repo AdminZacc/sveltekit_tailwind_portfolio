@@ -72,7 +72,7 @@
         </div>
         <div class="relative shadow-2xl grid place-items-center">
             <img
-                src={"img/facemob.png"}
+                src={"/assets/img/facemob.png"}
                 alt="Profile Pic"
                 class="object-cover z-[2] max-h-[30vh] shadow-lg duration-200 group-hover:opacity-100 group-hover:shadow-xl"    
             />
