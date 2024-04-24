@@ -22,10 +22,8 @@
             </i>      
         </a>
         <b class="pr-2">Instagram</b>
-        <a class="text-violet-400" target="_blank" href="https://www.instagram.com/zacagawea17/">
-            <i class="fa fa-instagram">
-
-            </i>
+        <a class="text-violet-400" target="_blank" href="https://www.instagram.com/zacchaeuselliott/">
+            <i class="fa fa-instagram"></i>
 
     </p>
        <p> 
