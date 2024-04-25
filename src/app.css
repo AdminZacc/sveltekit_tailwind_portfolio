@@ -9,6 +9,9 @@ html {
 }
 *{
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
 }
 h1,h2,h3, .poppins {
     font-family: 'Poppins', sans-serif;
